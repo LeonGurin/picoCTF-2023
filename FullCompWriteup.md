@@ -1,4 +1,4 @@
-# picoCTF 2023 Solved Question Writeups
+# picoCTF 2023 Solved Questions Writeups
 
 ### By Leon
 
