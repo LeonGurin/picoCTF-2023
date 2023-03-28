@@ -6,7 +6,7 @@ AUTHOR: KRIS
 
 Description
 Put this flag in standard picoCTF format before submitting. If the flag was h1_1m_7h3_f14g submit picoCTF{h1_1m_7h3_f14g} to the platform.
-[Windows game](), Mac game
+[Windows game](https://github.com/LeonGurin/picoCTF-2023/blob/main/Reverse%20Engineering/No%20way%20out/win.zip), Mac game
 
 ___
 

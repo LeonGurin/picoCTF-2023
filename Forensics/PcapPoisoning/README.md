@@ -6,7 +6,7 @@ AUTHOR: MUBARAK MIKAIL
 
 Description
 How about some hide and seek heh?
-Download this [file](https://github.com/LeonGurin/picoCTF%202023/blob/main/PcapPoisoning/trace.pcap) and find the flag.
+Download this [file](https://github.com/LeonGurin/picoCTF-2023/blob/main/Forensics/PcapPoisoning/trace.pcap) and find the flag.
 
 ___
 

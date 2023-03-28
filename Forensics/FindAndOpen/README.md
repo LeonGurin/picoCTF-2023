@@ -6,7 +6,7 @@ AUTHOR: MUBARAK MIKAIL
 
 Description
 Someone might have hidden the password in the trace file.
-Find the key to unlock [this file](). This [tracefile]() might be good to analyze.
+Find the key to unlock [this file](https://github.com/LeonGurin/picoCTF-2023/blob/main/Forensics/FindAndOpen/flag.zip). This [tracefile](https://github.com/LeonGurin/picoCTF-2023/blob/main/Forensics/FindAndOpen/dump.pcap) might be good to analyze.
 
 ___
 

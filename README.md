@@ -24,7 +24,7 @@ These are the challenges I solved:
 | [rotation](https://github.com/LeonGurin/picoCTF-2023/tree/main/Cryptography/rotation) | 100
 | [ReadMyCert](https://github.com/LeonGurin/picoCTF-2023/tree/main/Cryptography/ReadMyCert) | 100
 | [HideToSee](https://github.com/LeonGurin/picoCTF-2023/tree/main/Cryptography/HideToSee) | 100
-| [PowerAnalysis: Warmup](https://github.com/LeonGurin/picoCTF-2023/tree/main/Cryptography/PowerAnalysis:%20Warmup) | 200
+| [PowerAnalysis: Warmup](https://github.com/LeonGurin/picoCTF-2023/tree/main/Cryptography/PowerAnalysis%20Warmup) | 200
 
 
 ## Forensics:
@@ -74,7 +74,7 @@ These are the challenges I solved:
 | [findme](https://github.com/LeonGurin/picoCTF-2023/tree/main/Web%20Exploitation/findme) | 100
 | [SOAP](https://github.com/LeonGurin/picoCTF-2023/tree/main/Web%20Exploitation/SOAP) | 100
 
-[This](https://github.com/LeonGurin/picoCTF-2023/tree/main/FullCompWriteup) is the full competition writeup in one file. 
+[This](https://github.com/LeonGurin/picoCTF-2023/blob/main/FullCompWriteup.md) is the full competition writeup in one file. 
 
 # Competition Results:
 * **Scored:** 4900  points

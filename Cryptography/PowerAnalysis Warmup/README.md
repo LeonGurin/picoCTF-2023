@@ -3,7 +3,7 @@
 AUTHOR: ANISH SINGHANI
 
 Description
-This encryption algorithm leaks a "bit" of data every time it does a computation. Use [this]() to figure out the encryption key.
+This encryption algorithm leaks a "bit" of data every time it does a computation. Use [this](https://github.com/LeonGurin/picoCTF-2023/blob/main/Cryptography/PowerAnalysis%20Warmup/encrypt.py) to figure out the encryption key.
 Additional details will be available after launching your challenge instance.
 
 *Note:* This challenge launches an instance on demand.

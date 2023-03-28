@@ -6,7 +6,7 @@ AUTHOR: MUBARAK MIKAIL
 
 Description
 Try reversing this file? Can ya?
-I forgot the password to this [file](). Please find it for me?
+I forgot the password to this [file](https://github.com/LeonGurin/picoCTF-2023/blob/main/Reverse%20Engineering/Reverse/ret). Please find it for me?
 
 ___
 

@@ -7,7 +7,7 @@ AUTHOR: JUNIAS BONOU
 Description
 Someone just sent you an email claiming to be Google's co-founder Larry Page but you suspect a scam.
 Can you help us identify whose mail server the email actually originated from?
-Download the email file [here](). Flag: picoCTF{FirstnameLastname}
+Download the email file [here](https://github.com/LeonGurin/picoCTF-2023/blob/main/Forensics/who%20is%20it/email-export.eml). Flag: picoCTF{FirstnameLastname}
 
 ___
 

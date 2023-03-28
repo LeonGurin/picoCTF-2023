@@ -6,7 +6,7 @@ AUTHOR: LOIC SHEMA
 
 Description
 You will find the flag after decrypting this file
-Download the encrypted flag [here]().
+Download the encrypted flag [here](https://github.com/LeonGurin/picoCTF-2023/blob/main/Cryptography/rotation/encrypted.txt).
 
 ___
 

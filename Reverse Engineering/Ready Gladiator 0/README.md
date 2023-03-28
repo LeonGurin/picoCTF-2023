@@ -6,7 +6,7 @@ AUTHOR: LT 'SYREAL' JONES
 
 Description
 Can you make a CoreWars warrior that always loses, no ties?
-Your opponent is the Imp. The source is available [here](). If you wanted to pit the Imp against himself, you could download the Imp and start your own corewars server
+Your opponent is the Imp. The source is available [here](https://github.com/LeonGurin/picoCTF-2023/blob/main/Reverse%20Engineering/Ready%20Gladiator%200/imp.red). If you wanted to pit the Imp against himself, you could download the Imp and start your own corewars server
 
 *Note:* This challenge launches an instance on demand.
 

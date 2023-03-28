@@ -6,7 +6,7 @@ AUTHOR: LT 'SYREAL' JONES
 
 Description
 Can you crack this black box?
-We grabbed this design doc from enemy servers: [Download](). We know that the rotation of the red axle is input and the rotation of the blue axle is output. The following input gives the flag as output: [Download]().
+We grabbed this design doc from enemy servers: [Download](https://github.com/LeonGurin/picoCTF-2023/blob/main/Reverse%20Engineering/Virtual%20Machine%200/Virtual-Machine-0.dae). We know that the rotation of the red axle is input and the rotation of the blue axle is output. The following input gives the flag as output: [Download](https://github.com/LeonGurin/picoCTF-2023/blob/main/Reverse%20Engineering/Virtual%20Machine%200/input.txt).
 
 ___
 

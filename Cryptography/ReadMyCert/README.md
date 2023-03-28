@@ -4,7 +4,7 @@ AUTHOR: SUNDAY JACOB NWANYIM
 
 Description
 How about we take you on an adventure on exploring certificate signing requests
-Take a look at this CSR file [here]().
+Take a look at this CSR file [here](https://github.com/LeonGurin/picoCTF-2023/blob/main/Cryptography/ReadMyCert/readmycert.csr).
 
 ___
 
